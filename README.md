@@ -45,13 +45,3 @@ The analysis have shown that the model won't be able to accurately predict sales
 
 The analysis have shown that the model cannot accurately predict house prices. One reason is because the set of chosen features is not optimal. One way to fit this is to perform Principal component analysis (PCA) (although there seems to be a problem with encoded 'state' variable that causes the problem of multicolinearity) or to run a feature elimination method (RFE, for example). But we came to the conclusion, that it's not the question of reducing number of features, rather than adding more. </br>
 Though it is common knowledge that factors such as the size, number of rooms and location affect the price, there are many other things at play. Additionally, prices are sensitive to changes in market demand and the peculiarities of each situation, such as when a property needs to be urgently sold.
-
-
-## Contributors
-
-Contributors are:
-
-1. Galiya Khusniyarova
-2. Maria Angeles Bonany
-3. Christopher Swanson
-4. Jorge Villacreses
